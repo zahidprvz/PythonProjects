@@ -2,7 +2,7 @@ import phonenumbers
 from phonenumbers import geocoder, carrier, national_significant_number, can_be_internationally_dialled, number_type
 
 # Parse the phone number
-number = "+923256032363"
+number = "+923324621731"
 parsed_number = phonenumbers.parse(number, "PK")
 
 # Get the location of the phone number
